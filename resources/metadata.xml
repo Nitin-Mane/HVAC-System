@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>30f50008-3108-490f-b6e4-e13ca95bda2e</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>design-and-test-a-thermal-management-system-for-a-vehicle</name>
+  <author>Florin Nae</author>
+  <version>1.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/30f50008-3108-490f-b6e4-e13ca95bda2e/1729659278/packages/zip?src=addons_ml_desktop_install&amp;profile_id=34635254&amp;license=40889790&amp;release_family=R2024a</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/30f50008-3108-490f-b6e4-e13ca95bda2e/1.0.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/images/default_screenshot.jpg</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/30f50008-3108-490f-b6e4-e13ca95bda2e/cb242612-6428-4312-b9fd-8e8b35ed513d/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>
